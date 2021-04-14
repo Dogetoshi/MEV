@@ -3,7 +3,7 @@
 A curated list of projects and resources targesting Miner Extractable Value (MEV)
 
 ## What is Miner Extractable Value?
-Miner Extractable Value (MEV) refers to the amount of value/profit that miners can extract from reordering, including, or excluding transactions on the blockchain
+Miner Extractable Value (MEV) refers to the amount of value/profit that miners can extract from reordering, including, excluding, or manipulating transactions on the blockchain
 
 ## Contents
 
