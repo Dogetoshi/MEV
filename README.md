@@ -8,7 +8,7 @@ A curated list of projects and resources targesting Miner Extractable Value (MEV
 
 - [Reading Materials](#reading-materials)
 - [Projects](#projects)
-- [Applications/Tools](#applications-tools)
+- [Applications & Tools](#applications-tools)
 
 <a name="reading-materials" />
 
