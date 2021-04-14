@@ -32,8 +32,7 @@ A curated list of projects and resources targesting Miner Extractable Value (MEV
 - [MEVA (What is it good for?)](https://medium.com/offchainlabs/meva-what-is-it-good-for-de8a96c0e67c)
 - [Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/abs/2101.05511)
 - [High-Frequency Trading on Decentralized On-Chain Exchanges](https://arxiv.org/abs/2009.14021)
-- [Flashbots: Frontrunning the MEV Crisis](https://medium.com/flashbots/frontrunning-the-mev-crisis-40629a613752)
-- [Flashbots: Frontrunning the MEV Crisis](https://medium.com/flashbots/frontrunning-the-mev-crisis-40629a613752)
+- [Staring Into the Monster’s Eye: Analyzing a Generalized Front-Running Ethereum Arbitrage Bot Attack](https://www.zengo.com/generalized-front-running-ethereum-arbitrage-bot-attack/)
 
 <a name="projects" />
 
