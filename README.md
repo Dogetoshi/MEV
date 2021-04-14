@@ -14,7 +14,7 @@ A curated list of projects and resources targesting Miner Extractable Value (MEV
 
 ## Reading Materials
 
-- [INSERT](LINK)
+- [Flashbots: Frontrunning the MEV Crisis](https://medium.com/flashbots/frontrunning-the-mev-crisis-40629a613752)
 
 <a name="projects" />
 
