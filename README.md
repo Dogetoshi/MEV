@@ -23,7 +23,7 @@ A curated list of projects and resources targesting Miner Extractable Value (MEV
 - [MEV auctions considered harmful](https://medium.com/offchainlabs/mev-auctions-considered-harmful-fa72f61a40ea)
 - [MEV and Me](https://research.paradigm.xyz/MEV)
 - [Ethereum Blockspace - Who Gets What and Why](https://research.paradigm.xyz/ethereum-blockspace)
-- [https://research.paradigm.xyz/ethereum-blockspace](https://www.zengo.com/ethology-a-safari-tour-in-ethereums-dark-forest/)
+- [Ethology: A Safari Tour in Ethereum’s Dark Forest](https://www.zengo.com/ethology-a-safari-tour-in-ethereums-dark-forest/)
 - [The enemy of your enemy is NOT your friend](https://fiona.mirror.xyz/QXdCOAggA5g_j5R_JpO-V5LqK89EbimnYIV6c2rOsT0)
 - [Wrecking sandwich traders for fun and profit](https://github.com/Defi-Cartel/salmonella)
 - [Five theses about transaction ordering, MEV, and front-running](https://medium.com/offchainlabs/five-theses-about-transaction-ordering-mev-and-front-running-5ebf52bc0cbe)
