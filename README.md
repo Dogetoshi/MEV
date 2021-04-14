@@ -6,9 +6,9 @@ A curated list of projects and resources targesting Miner Extractable Value (MEV
 
 ## Contents
 
--[Reading Materials](#reading-materials)
--[Projects](#projects)
--[Applications/Tools](#applications-tools)
+- [Reading Materials](#reading-materials)
+- [Projects](#projects)
+- [Applications/Tools](#applications-tools)
 
 <a name="reading-materials" />
 
