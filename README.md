@@ -24,6 +24,6 @@ A curated list of projects and resources targesting Miner Extractable Value (MEV
 
 <a name="applications-tools" />
 
-## Projects
+## Applications & Tools
 
 - [INSERT](LINK)
