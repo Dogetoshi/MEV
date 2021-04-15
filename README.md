@@ -8,6 +8,7 @@ Miner Extractable Value (MEV) refers to the amount of value/profits that miners 
 ## Contents
 
 - [Reading Materials](#reading-materials)
+- [Video Content](#video-content)
 - [Projects](#projects)
 - [Applications & Tools](#applications-tools)
 
@@ -32,6 +33,7 @@ Miner Extractable Value (MEV) refers to the amount of value/profits that miners 
 - [MEV and Me](https://research.paradigm.xyz/MEV)
 - [MEV auctions considered harmful](https://medium.com/offchainlabs/mev-auctions-considered-harmful-fa72f61a40ea)
 - [MEVA (What is it good for?)](https://medium.com/offchainlabs/meva-what-is-it-good-for-de8a96c0e67c)
+- [MEV… wat do?](https://pdaian.com/blog/mev-wat-do/)
 - [On the instability of Bitcoin without the block reward](https://economics.princeton.edu/working-papers/on-the-instability-of-bitcoin-without-the-block-reward/#:~:text=Bitcoin%20provides%20two%20incentives%20for,as%20the%20block%20rewards%20dwindle.)
 - [Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/abs/2101.05511)
 - [Quantifying MEV](https://medium.com/flashbots/quantifying-mev-introducing-mev-explore-v0-5ccbee0f6d02)
@@ -42,6 +44,16 @@ Miner Extractable Value (MEV) refers to the amount of value/profits that miners 
 - [Uncle Bandit Attack](https://twitter.com/bertcmiller/status/1382673587715342339)
 - [What Is Miner-Extractable Value (MEV)?](https://blog.chain.link/what-is-miner-extractable-value-mev/)
 - [Wrecking sandwich traders for fun and profit](https://github.com/Defi-Cartel/salmonella)
+
+<a name="video-content" />
+
+## Video Content
+- [An Introduction to Backrunning on Ethereum](https://www.youtube.com/watch?v=ApAJ1afUbBI)
+- [Flashbots with Phil Daian and Stephane Gosselin](https://www.youtube.com/watch?v=p5L39ab7n4k)
+- [Frontrunning in Decentralized Exchanges, Miner Extractable Value, and Consensus Instability](https://www.youtube.com/watch?v=vR1v7AQ8i3k)
+- [Gas Wars - Understanding Ethereum's Mempool & Miner Extractable Value](https://www.youtube.com/watch?v=vCCYFSAdCFo)
+- [How To Get Front-Run on Ethereum mainnet](https://www.youtube.com/watch?v=UZ-NNd6yjFM)
+- [Miner Extractable Value with Phil & Georgios](https://www.youtube.com/watch?v=tv0CkmcoGkM)
 
 <a name="projects" />
 
