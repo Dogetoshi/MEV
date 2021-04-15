@@ -66,4 +66,5 @@ Miner Extractable Value (MEV) refers to the amount of value/profits that miners 
 - [Bloxroute BDN](https://bloxroute.com/products/)
 - [MEV Explore](https://explore.flashbots.net/)
 - [MEV-geth](https://github.com/flashbots/mev-geth)
+- [MEV-Inspect](https://github.com/flashbots/mev-inspect-rs)
 - [Taichi network](https://taichi.network/)
