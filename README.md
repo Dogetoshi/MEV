@@ -61,6 +61,7 @@ Miner Extractable Value (MEV) refers to the amount of value/profits that miners 
 ## Projects
 
 - [1inch stealth transactions](https://help.1inch.io/en/articles/4695716-what-are-stealth-transactions-and-how-they-work#:~:text=A%20stealth%20transaction%20is%20now,potential%20losses%20from%20front%2Drunning.&text=In%20a%20nutshell%2C%20front%2Drunning,to%20intercept%20a%20large%20transaction.)
+- [Alchemist](https://github.com/alchemistcoin/alchemist)
 - [ArcherDAO](https://www.archerdao.io/)
 - [Automata Network](https://www.ata.network/)
 - [Backbone Cabal](https://backbonecabal.com/)
