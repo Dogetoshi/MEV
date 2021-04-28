@@ -37,6 +37,7 @@ Miner Extractable Value (MEV) refers to the amount of value/profits that miners 
 - [On the instability of Bitcoin without the block reward](https://economics.princeton.edu/working-papers/on-the-instability-of-bitcoin-without-the-block-reward/#:~:text=Bitcoin%20provides%20two%20incentives%20for,as%20the%20block%20rewards%20dwindle.)
 - [Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/abs/2101.05511)
 - [Quantifying MEV](https://medium.com/flashbots/quantifying-mev-introducing-mev-explore-v0-5ccbee0f6d02)
+- [Rapid Rise of MEV in Ethereum](https://medium.com/etherscan-blog/rapid-rise-of-mev-in-ethereum-9bcb62e53517)
 - [Staring Into the Monster’s Eye: Analyzing a Generalized Front-Running Ethereum Arbitrage Bot Attack](https://www.zengo.com/generalized-front-running-ethereum-arbitrage-bot-attack/)
 - [Surrogeth: Tricking frontrunners into being transaction relayers](https://ethresear.ch/t/surrogeth-tricking-frontrunners-into-being-transaction-relayers/6937)
 - [The DeFi liquidation game](https://gerhard-wagner.medium.com/the-defi-liquidation-game-aaef5c0b903d)
@@ -52,6 +53,7 @@ Miner Extractable Value (MEV) refers to the amount of value/profits that miners 
 ## Video Content
 - [An Introduction to Backrunning on Ethereum](https://www.youtube.com/watch?v=ApAJ1afUbBI)
 - [Flashbots with Phil Daian and Stephane Gosselin](https://www.youtube.com/watch?v=p5L39ab7n4k)
+- [Flashbots – The Good, Bad and the Ugly of MEV](https://epicenter.tv/episodes/389)
 - [Frontrunning in Decentralized Exchanges, Miner Extractable Value, and Consensus Instability](https://www.youtube.com/watch?v=vR1v7AQ8i3k)
 - [Gas Wars - Understanding Ethereum's Mempool & Miner Extractable Value](https://www.youtube.com/watch?v=vCCYFSAdCFo)
 - [How To Get Front-Run on Ethereum mainnet](https://www.youtube.com/watch?v=UZ-NNd6yjFM)
