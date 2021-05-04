@@ -28,6 +28,7 @@ Miner Extractable Value (MEV) refers to the amount of value/profits that miners 
 - [Front-Running as a Service](https://medium.com/offchainlabs/front-running-as-a-service-334c929c945a)
 - [Gas Gambits — Game Theory Example of Incentivized Collaboration](https://medium.com/keeperdao/gas-gambits-game-theory-example-of-incentivized-collaboration-9a42e9c9b867)
 - [High-Frequency Trading on Decentralized On-Chain Exchanges](https://arxiv.org/abs/2009.14021)
+- [High Seas Traders](https://medium.com/oiler-network/high-seas-traders-5d4c923bfb83)
 - [RETURN TO THE DARK FOREST](https://www.rekt.news/return-to-the-dark-forest/)
 - [MEV Auction: Auctioning transaction ordering rights as a solution to Miner Extractable Value](https://ethresear.ch/t/mev-auction-auctioning-transaction-ordering-rights-as-a-solution-to-miner-extractable-value/6788)
 - [MEV and Me](https://research.paradigm.xyz/MEV)
