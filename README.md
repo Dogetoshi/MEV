@@ -78,6 +78,7 @@ Miner Extractable Value (MEV) refers to the amount of value/profits that miners 
 - [Flashbots](https://github.com/flashbots/pm)
 - [KeeperDAO](https://keeperdao.com/)
 - [MiningDAO](https://miningdao.io/)
+- [mistX](https://mistx.io/)
 - [Shutter Network](https://shutter.ghost.io/introducing-shutter-network-combating-frontrunning-and-malicious-mev-using-threshold-cryptography/)
 
 <a name="applications-tools" />
