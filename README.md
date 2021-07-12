@@ -30,7 +30,6 @@ Miner Extractable Value (MEV) refers to the amount of value/profits that miners 
 - [High-Frequency Trading on Decentralized On-Chain Exchanges](https://arxiv.org/abs/2009.14021)
 - [High Seas Traders](https://medium.com/oiler-network/high-seas-traders-5d4c923bfb83)
 - [RETURN TO THE DARK FOREST](https://www.rekt.news/return-to-the-dark-forest/)
-- [MEV.wtf Virtual Summit](https://hackmd.io/ivUzk3piQEG8ALzCGbxlag)
 - [MEV Auction: Auctioning transaction ordering rights as a solution to Miner Extractable Value](https://ethresear.ch/t/mev-auction-auctioning-transaction-ordering-rights-as-a-solution-to-miner-extractable-value/6788)
 - [MEV and Me](https://research.paradigm.xyz/MEV)
 - [MEV auctions considered harmful](https://medium.com/offchainlabs/mev-auctions-considered-harmful-fa72f61a40ea)
@@ -62,6 +61,7 @@ Miner Extractable Value (MEV) refers to the amount of value/profits that miners 
 - [Gas Wars - Understanding Ethereum's Mempool & Miner Extractable Value](https://www.youtube.com/watch?v=vCCYFSAdCFo)
 - [How To Get Front-Run on Ethereum mainnet](https://www.youtube.com/watch?v=UZ-NNd6yjFM)
 - [Crypto’s Existential Threat | MEV Panel: Phil Daian, Georgios Konstanopolus, Charlie Noyes](https://www.youtube.com/watch?v=rOVz7dOrGyY)
+- [MEV.wtf Virtual Summit](https://hackmd.io/ivUzk3piQEG8ALzCGbxlag)
 - [Miner Extractable Value with Phil & Georgios](https://www.youtube.com/watch?v=tv0CkmcoGkM)
 
 <a name="projects" />
