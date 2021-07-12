@@ -48,6 +48,7 @@ Miner Extractable Value (MEV) refers to the amount of value/profits that miners 
 - [To Sink Frontrunners, Send in the Submarines](https://hackingdistributed.com/2017/08/28/submarine-sends/)
 - [Uncle Bandit Attack](https://twitter.com/bertcmiller/status/1382673587715342339)
 - [Unmasking the Ethereum Uncle Bandit](https://medium.com/alchemy-api/unmasking-the-ethereum-uncle-bandit-a2b3eb694019)
+- [We Live In A Mempool: Backrunning the MEV Crisis](https://medium.com/dragonfly-research/we-live-in-a-mempool-backrunning-the-mev-crisis-a4ea0b493b05)
 - [What Is Miner-Extractable Value (MEV)?](https://blog.chain.link/what-is-miner-extractable-value-mev/)
 - [Wrecking sandwich traders for fun and profit](https://github.com/Defi-Cartel/salmonella)
 
