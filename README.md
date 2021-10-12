@@ -99,4 +99,3 @@ Miner Extractable Value (MEV) refers to the amount of value/profits that miners 
 - [MEV-geth](https://github.com/flashbots/mev-geth)
 - [MEV-Inspect](https://github.com/flashbots/mev-inspect-rs)
 - [Sandwiched.wtf](https://sandwiched.wtf/)
-- [Taichi network](https://taichi.network/)
